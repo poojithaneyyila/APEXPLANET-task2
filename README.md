@@ -2,7 +2,9 @@
 
 Over the past few weeks during my internship with ApexPlanet, I worked on hands-on frontend development tasks to strengthen my core web skills. Today, I’m excited to share two mini projects I built using HTML, CSS, and JavaScript:
 
+
 ✅ 1. Advanced To-Do List Web App
+
 
 🧾 A smart and fully interactive task management application built with:
 
@@ -42,6 +44,7 @@ Over the past few weeks during my internship with ApexPlanet, I worked on hands-
 
 
 📬 2. Responsive Contact Form with Validation
+
 
 📨 A user-friendly and aesthetically pleasing contact form designed to collect user information efficiently.
 
