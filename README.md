@@ -87,4 +87,4 @@ Over the past few weeks during my internship with ApexPlanet, I worked on hands-
 
 These projects sharpened my JavaScript fundamentals, improved my understanding of responsive design, and helped me write clean, modular, and interactive frontend code. They also taught me how small details (icons, transitions, focus states) can dramatically improve user experience.
 
-#WebDevelopment #HTML #CSS #JavaScript #InternshipProject #ToDoApp #ContactForm #ApexPlanet #
+#WebDevelopment #HTML #CSS #JavaScript #InternshipProject #ToDoApp #ContactForm #ApexPlanet
