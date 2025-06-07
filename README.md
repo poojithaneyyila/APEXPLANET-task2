@@ -8,13 +8,13 @@ Over the past few weeks during my internship with ApexPlanet, I worked on hands-
 
 🧱 Techologies used:
 
-HTML – Structured content layout
+>>HTML – Structured content layout
 
-CSS – Clean and responsive UI with gradients, rounded corners, and media queries
+>>CSS – Clean and responsive UI with gradients, rounded corners, and media queries
 
-JavaScript – DOM manipulation and dynamic task controls
+>>JavaScript – DOM manipulation and dynamic task controls
 
-Font Awesome – Task control icons for better UX
+>>Font Awesome – Task control icons for better UX
 
 
 🔑 Features:
@@ -32,13 +32,13 @@ Font Awesome – Task control icons for better UX
 
 💡 Skills Gained:
 
-JavaScript DOM operations (createElement, appendChild, classList.toggle)
+>>JavaScript DOM operations (createElement, appendChild, classList.toggle)
 
-Event handling for user interactions
+>>Event handling for user interactions
 
-UI/UX principles for usability and clean design
+>>UI/UX principles for usability and clean design
 
-Responsive design using Flexbox and media queries
+>>Responsive design using Flexbox and media queries
 
 
 📬 2. Responsive Contact Form with Validation
